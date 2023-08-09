@@ -1,0 +1,13 @@
+body{
+    color: rgb(245, 4, 4);
+    background-color: springgreen;
+}
+.heading{
+ width: 80%;
+font-size: 22px;
+}
+#camera{
+    border: 2px dashed turquoise;
+    width: 350px;
+    height: 300px;
+}
